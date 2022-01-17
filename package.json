@@ -1,0 +1,13 @@
+{
+  "name": "rc-issue",
+  "version": "1.0.0",
+  "description": "Possible bug",
+  "author": "Martin Artola",
+  "license": "ISC",
+  "devDependencies": {
+    "relay-compiler": "latest"
+  },
+  "scripts": {
+    "relay": "relay-compiler"
+  }
+}

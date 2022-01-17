@@ -1,0 +1,7 @@
+type Local {
+  color: String
+}
+
+extend type Query {
+  local: Local
+}
